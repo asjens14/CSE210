@@ -1,2 +1,3 @@
 tests/
 solutions/
+*.code-workspace
